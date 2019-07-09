@@ -11,7 +11,7 @@ import (
 )
 
 const (
-	apiEndpoint    = "https://www.google.com/recaptcha/api/siteverify"
+	apiEndpoint    = "https://www.recaptcha.net/recaptcha/api/siteverify"
 	defaultTimeout = 15 * time.Second
 )
 
